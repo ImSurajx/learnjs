@@ -69,7 +69,7 @@ However, if you're on the same journey and wish to share insights or corrections
 
 **Author:** Suraj Kumar  
 **GitHub:** [ImSurajx](https://github.com/imsurajx)  
-**Twitter (Optional):** [@ItSurajxD](https://x.com/ItSurajxD)  
+**Twitter:** [@ItSurajxD](https://x.com/ItSurajxD)  
 **LinkedIn:** [ItSurajx](https://www.linkedin.com/in/itsurajx/)
 
 ---
