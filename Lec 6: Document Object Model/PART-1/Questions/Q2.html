@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .box{
+            height: 100px;
+            width: 100px;
+            background-color: #000;
+            color:#fff;
+            margin: 5px;
+            border: 1px solid red;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="box">first div</div>
+    <div class="box">second div</div>
+    <div class="box">third div</div>
+    <script>
+        let divs = document.querySelectorAll(".box");
+        console.dir(divs);
+        console.log(divs);
+        divs[0].innerText = "new unique value 1";
+        divs[1].innerText = "new unique value 2";
+        divs[2].innerText = "new unique value 3";
+    </script>
+</body>
+</html>
